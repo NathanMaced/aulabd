@@ -31,6 +31,12 @@ insert into carros
 
 insert into carros
 	values (14,'Citroen','Grand C4 Picasso Intensive 1.6','2016 ','89312.00'),
-	(15,'Citroen','Grand C4 Picasso Intensive 1.6','2017','81591.00'),
-	(16,'Citroen','Grand C4 Picasso Intensive 1.6','2018','95441.00'),
-	(17,'Citroen','Grand C4 Picasso Intensive 1.6','2019','97999.00');
+	(15,'Citroen','Grand C4 Picasso Intensive 1.6','2017','106107.00'),
+	(16,'Citroen','Grand C4 Picasso Intensive 1.6','2018','115639.00'),
+	(17,'Citroen','Grand C4 Picasso Intensive 1.6','2019','137209.00');
+
+insert into carros
+	values (18,'Citroen','C3 Tendance Pure Tech 1.2 Flex','2016 ','46263.00'),
+	(19,'Citroen','C3 Tendance Pure Tech 1.2 Flex','2017','47619.00'),
+	(20,'Citroen','C3 Tendance Pure Tech 1.2 Flex','2018','48986.00'),
+	(21,'Citroen','C3 Tendance Pure Tech 1.2 Flex','2019','53289.00');
