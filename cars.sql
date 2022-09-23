@@ -24,7 +24,13 @@ insert into carros
 	(9,'Citroen','C3 Attraction Pure Tech','2019','52.817.00');
 
 insert into carros
-	values (10,'Citroen','C4 CACTUS FEEL 1.6','2019 ','79.540.00'),
-	(11,'Citroen','C4 CACTUS FEEL 1.6','2017','47555.00'),
-	(12,'Citroen','C4 CACTUS FEEL 1.6','2018','48.897.00'),
-	(13,'Citroen','C4 CACTUS FEEL 1.6','2019','52.817.00');
+	values (10,'Citroen','C4 CACTUS FEEL 1.6','2019 ','79540.00'),
+	(11,'Citroen','C4 CACTUS FEEL 1.6','2020','81591.00'),
+	(12,'Citroen','C4 CACTUS FEEL 1.6','2021','95441.00'),
+	(13,'Citroen','C4 CACTUS FEEL 1.6','2022','97999.00');
+
+insert into carros
+	values (14,'Citroen','Grand C4 Picasso Intensive 1.6','2016 ','89312.00'),
+	(15,'Citroen','Grand C4 Picasso Intensive 1.6','2017','81591.00'),
+	(16,'Citroen','Grand C4 Picasso Intensive 1.6','2018','95441.00'),
+	(17,'Citroen','Grand C4 Picasso Intensive 1.6','2019','97999.00');
