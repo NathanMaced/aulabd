@@ -10,6 +10,8 @@ create table Carros(
 	preco decimal (8,2) not null
 );
 
+--CITROEN
+
 INSERT  INTO  Carros 
 VALUES (1,'Citroën','AIRCROSS Live 1.6 Flex','2016 ', ' 52872.00'),
 (2,'Citroen','AIRCROSS Live 1.6 Flex','2017 ', ' 58.637.00'),
@@ -40,3 +42,11 @@ insert into carros
 	(19,'Citroen','C3 Tendance Pure Tech 1.2 Flex','2017','47619.00'),
 	(20,'Citroen','C3 Tendance Pure Tech 1.2 Flex','2018','48986.00'),
 	(21,'Citroen','C3 Tendance Pure Tech 1.2 Flex','2019','53289.00');
+
+--FERRARI 
+
+insert into carros
+	values (22,'Ferrari','360 Modena F1','1999 ','447744.00'),
+	(23,'Ferrari','360 Modena F1','2000','518872.00'),
+	(24,'Ferrari','360 Modena F1','2018','48986.00'),
+	(25,'Ferrari','360 Modena F1','2019','53289.00');
