@@ -9,3 +9,22 @@ create table Carros(
 	ano date not null,
 	preco decimal (8,2) not null
 );
+
+INSERT  INTO  Carros 
+VALUES (1,'Citroën','AIRCROSS Live 1.6 Flex','2016 ', ' 52872.00'),
+(2,'Citroen','AIRCROSS Live 1.6 Flex','2017 ', ' 58.637.00'),
+(3,'Citroen','AIRCROSS Live 1.6 Flex','2018 ', ' 62.704.00'),
+(4,'Citroen','AIRCROSS Live 1.6 Flex','2019 ', ' 69.634.00'),
+(5,'Citroen','AIRCROSS Live 1.6 Flex','2020 ', ' 73.440.00');
+
+insert into carros
+	values (6,'Citroen','C3 Attraction Pure Tech','2016','40433.00'),
+	(7,'Citroen','C3 Attraction Pure Tech','2017','47555.00'),
+	(8,'Citroen','C3 Attraction Pure Tech','2018','48.897.00'),
+	(9,'Citroen','C3 Attraction Pure Tech','2019','52.817.00');
+
+insert into carros
+	values (10,'Citroen','C4 CACTUS FEEL 1.6','2019 ','79.540.00'),
+	(11,'Citroen','C4 CACTUS FEEL 1.6','2017','47555.00'),
+	(12,'Citroen','C4 CACTUS FEEL 1.6','2018','48.897.00'),
+	(13,'Citroen','C4 CACTUS FEEL 1.6','2019','52.817.00');
